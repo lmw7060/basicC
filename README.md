@@ -6,7 +6,7 @@
     <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;">  </div> 
     </div>
     <div align= "center">
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Introduce </h2> <br> 
     <div style="margin: 0 auto; text-align: center;" align= "center"> 
           이 리포지토리는 C언어의 기초를 연습한 코드를 올린 곳입니다.
           </div>
